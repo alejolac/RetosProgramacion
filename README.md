@@ -11,3 +11,4 @@ Ej-04 _ JavaScript (No resuelto) | 17 / 5 / 23 <br>
 Ej-05 _ JavaScript | 17 / 5 / 23 <br>
 Ej-06 _ JavaScript | 19 / 5 / 23 <br>
 Ej-07 _ Python | 22 / 5 / 23 <br>
+Ej-08 _ JavaScript | 5 / 6 / 23 <br>
