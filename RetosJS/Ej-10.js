@@ -22,7 +22,7 @@ function generatePassword () {
         }
         condition = typeCh == 7 ? false : true
     }
-    if (condition) pass[-1] = String.fromCharCode(randomNumber(33, 47))
+    if (condition) pass[randomNumber(1, pass.lenght)] = String.fromCharCode(randomNumber(33, 47))
     return pass.join('')
 }
 
